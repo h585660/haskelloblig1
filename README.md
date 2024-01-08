@@ -25,7 +25,7 @@ And voilà! You're now a Haskell spreadsheet wizard! 🧙‍♂️
 
 Before you begin, make sure you have GHC (Glasgow Haskell Compiler) ready to go. Once you're all set:
 
-```bash
+bash
 ghc Oblig1.hs -o Oblig1
 ./Oblig1
 
@@ -57,4 +57,6 @@ Shoutout to:
 ## 🌈 Final Thoughts
 
 This project isn't just code; it's a piece of my Haskell journey. Dive in, play around, and maybe even sprinkle some of your own magic dust on it!
+
+
 
