@@ -28,3 +28,31 @@ Before you begin, make sure you have GHC (Glasgow Haskell Compiler) ready to go.
 ```bash
 ghc Oblig1.hs -o Oblig1
 ./Oblig1
+
+## 📚 Example Usage
+
+Want to see some magic? Here's how:
+
+1. Whip up a text file that looks like a spreadsheet.
+2. Run this Haskell charm with your file.
+3. Watch the console light up with your spreadsheet's soul. ✨
+
+## 📖 Lessons Learned
+
+This project was like a roller coaster in Haskell Land. Here's what I picked up along the way:
+
+- **🤹 The Power of Functional Programming:** Haskell's pure functions and types were a real brain-teaser.
+- **💡 Problem-Solving in Haskell:** Flexing those Haskell muscles with parsers and data wrangling.
+- **🏋️‍♂️ Persistence Pays Off:** Stumbling is part of the process, and getting up is what counts.
+
+## 🙏 Acknowledgements
+
+Shoutout to:
+
+- **👨‍🏫 My Haskell Professor and Classmates:** You guys rock!
+- **🌍 The Haskell Community:** Couldn't have done it without the endless forums and docs.
+
+## 🌈 Final Thoughts
+
+This project isn't just code; it's a piece of my Haskell journey. Dive in, play around, and maybe even sprinkle some of your own magic dust on it!
+
