@@ -29,6 +29,8 @@ Before you begin, make sure you have GHC (Glasgow Haskell Compiler) ready to go.
 ghc Oblig1.hs -o Oblig1
 ./Oblig1
 
+getting up is what counts.
+
 ## 📚 Example Usage
 
 Want to see some magic? Here's how:
